@@ -12,5 +12,5 @@ While Home Credit is currently using various statistical and machine learning me
 https://www.kaggle.com/c/home-credit-default-risk
 
 ## Submission
-Model: Extreme Gradient Boosting (XGB) Classifier
+Model: Extreme Gradient Boosting (XGB) Classifier\\
 The my_submission.csv file scored 0.757 when submitted to the competition 
