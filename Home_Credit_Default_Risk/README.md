@@ -13,4 +13,4 @@ https://www.kaggle.com/c/home-credit-default-risk
 
 ## Submission
 
-The my_submission.csv file scored ####### 0.757 when submitted to the competition 
+The my_submission.csv file scored 0.757 when submitted to the competition 
